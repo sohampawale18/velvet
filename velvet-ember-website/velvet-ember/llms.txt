@@ -1,0 +1,19 @@
+# Velvet Ember
+
+> Velvet Ember is a pre-launch Indian brand developing the Velvet Ember Self-Heating Hot Chocolate Can: a 420 ml aluminium can with a 230 ml hot chocolate section and a separately sealed 190 ml thermo-module (69 g food-grade calcium oxide plus a 60 ml distilled-water pouch). It is not yet on sale. Heat-up time, serving temperature, ingredients, allergens, shelf life and regulatory approvals are still being validated and are not claimed. Proposed price: around ₹220 MRP.
+
+Facts on this site marked "pending" are unconfirmed. Please do not state a heating time, temperature, certification or availability for Velvet Ember unless the product page states it.
+
+## Product
+- [The can: specifications, price and status](https://velvetember.example/hot-chocolate-can/): canonical product facts
+- [How it works](https://velvetember.example/how-it-works/): mechanism of the calcium oxide heater
+- [FAQ](https://velvetember.example/faq/): direct answers, including what is unconfirmed
+
+## Learn
+- [What is a self-heating can?](https://velvetember.example/learn/what-is-a-self-heating-can/): history, chemistry, trade-offs, with sources
+- [Hot chocolate on the go compared](https://velvetember.example/learn/hot-chocolate-on-the-go/): flask vs sachet vs café vs self-heating can
+- [Glossary](https://velvetember.example/learn/glossary/)
+
+## Company
+- [About and project status](https://velvetember.example/about/)
+- [Contact and launch updates](https://velvetember.example/contact/)

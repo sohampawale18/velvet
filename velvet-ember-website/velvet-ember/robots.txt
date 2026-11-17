@@ -1,0 +1,6 @@
+# Velvet Ember: replace the domain below before deploying.
+User-agent: *
+Allow: /
+Disallow: /docs/
+
+Sitemap: https://velvetember.example/sitemap.xml
